@@ -1,4 +1,4 @@
-# AutoLiker-script_AniList By ~Shipuu
+# AutoLike-script_AniList By ~Shipuu
 
 # How to instal - Sry btw if i dint make the shortcut
 
